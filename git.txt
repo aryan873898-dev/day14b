@@ -1,0 +1,21 @@
+git init 
+git remote add origin REpo url
+git config --list
+
+git branch -M main
+
+git pull origin main
+
+ ...Work Complete 
+
+ git add .
+ git status
+ git commit -m "Your message"
+ git push origin  main
+
+ git config --global user.name
+ git config --global user.email
+
+ git add .
+git commit -m "Added abhishek.js and updated files"
+git push origin main
